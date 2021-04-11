@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterKey": "ProjectName",
+    "ParameterValue": "MustafaElsayed-webapp"
+  },
+  {
+    "ParameterKey": "VpcCidr",
+    "ParameterValue": "10.0.0.0/16"
+  },
+  {
+    "ParameterKey": "PubSbnt1Cidr",
+    "ParameterValue": "10.0.8.0/24"
+  },
+  {
+    "ParameterKey": "PubSbnt2Cidr",
+    "ParameterValue": "10.0.9.0/24"
+  },
+  {
+    "ParameterKey": "PrivateSbnt1Cidr",
+    "ParameterValue": "10.0.10.0/24"
+  },
+  {
+    "ParameterKey": "PrivateSbnt2Cidr",
+    "ParameterValue": "10.0.11.0/24"
+  }
+]
